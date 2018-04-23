@@ -1,0 +1,8 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="_3007___ColumnsQuickCustomization.App"
+             >
+    <Application.Resources>
+        
+    </Application.Resources>
+</Application>
